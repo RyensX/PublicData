@@ -1,5 +1,6 @@
 {
     "version": 185,
-    "log": "<h2>更新日志</h2><ul><li>修复文章信息获取错误</li><li>修复文章代码块滑动冲突</li><li>修复文章代码复制</li><li>优化升级内部依赖库版本</li><li>接入AppCenter辅助应用开发</li></ul>",
-    "url": "https://github.com/RyensX/PublicData/edit/main/CodePlus/code_plus_update_info.json"
+    "log": "<ul><li>修复文章信息获取错误</li><li>修复文章代码块滑动冲突</li><li>修复文章代码复制</li><li>优化升级内部依赖库版本</li><li>接入AppCenter辅助应用开发</li></ul>",
+    "url": "https://github.com/RyensX/PublicData/edit/main/CodePlus/code_plus_update_info.json",
+    "enforce": true
 }
