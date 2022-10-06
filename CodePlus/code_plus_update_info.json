@@ -1,6 +1,6 @@
 {
     "version": 186,
     "log": "<ul><li>修复 打开文章偶尔提示登陆</li><li>优化 接口自动切换机制</li><li>优化 默认使用新接口</li></ul>",
-    "url": "https://appcenter-filemanagement-distrib5ede6f06e.azureedge.net/4334aa0c-4d5c-4bea-bdf5-8e2a72da54ee/codeplus_2.91%28186%29_res_proguard_release.apk?sv=2019-02-02&sr=c&sig=%2FFMpY38RtS4aVeFZ3svRUTJut8CpVaohA%2FctIrzIN9M%3D&se=2022-10-06T05%3A29%3A25Z&sp=r&download_origin=appcenter",
+    "url": "https://install.appcenter.ms/users/Ryens/apps/Code/releases/1",
     "enforce": true
 }
