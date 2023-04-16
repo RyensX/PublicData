@@ -1,6 +1,6 @@
 {
     "version": 187,
-    "log": "<ul><li>修复 打开文章偶尔提示登陆</li><li>优化 接口自动切换机制</li><li>优化 默认使用新接口</li></ul>",
+    "log": "<ul><li>修复 首页无法加载数据</li></ul>",
     "url": "https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2FRyensX%2FPublicData%2Fraw%2Fmain%2FCodePlus%2Freleases%2Fcodeplus_2.92%28187%29_res_proguard_release.apk",
     "enforce": true
 }
